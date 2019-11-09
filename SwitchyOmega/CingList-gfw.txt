@@ -160,6 +160,8 @@
 ||gearbest.com
 ||books.google.com
 ||userstyles.org
+!tvc-mall
+||tvc-mall.com
 ||razerzone.com
 ||foxss.me
 ||fox-a.top
@@ -170,5 +172,4 @@
 ||rmdown.com
 ||img599.net
 ||kccdk.com
-!tvc-mall
-||tvc-mall.com
+
