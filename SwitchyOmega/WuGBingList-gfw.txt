@@ -3,8 +3,8 @@
 ! Author:       WuGBing
 ! Version:      2019
 ! Expires:      1h
-! Contact:      https://github.com/WuGBing/Rules
-!------------------------------------------------------------------!
+! Contact:      https://raw.githubusercontent.com/WuGBing/Rules/master/SwitchyOmega/WuGBingList-gfw.txt
+!------------------------------------------------------------------------------------------------------!
 
 ||myhdjav.net
 ||bestpornbabes.com
@@ -168,7 +168,8 @@
 !@@||kiwivm.64clouds.com
 
 !^_^
-!@@||adguard.com
+||adguard.com
+||adtidy.org
 !@@||nai.com
 ||chrome-extension-downloader.com
 ||repack.me
