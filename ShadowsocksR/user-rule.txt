@@ -163,7 +163,8 @@
 !@@||kiwivm.64clouds.com
 
 !^_^
-!@@||adguard.com
+||adguard.com
+||adtidy.org
 !@@||nai.com
 ||chrome-extension-downloader.com
 ||repack.me
