@@ -6,7 +6,6 @@ meiju22.com##.layui-layer, .layui-layer-page
 meiju22.com##.layui-layer-shade
 meiju22.com###layui-layer1
 meiju22.com###layui-layer-shade1
-douyu.com##.SuperFansGuideTips
 xiaobi*.com###class2
 discordapp.com###app-mount > div.app-19_DXt:nth-child(3) > div.app-2rEoOp > div.layers-3iHuyZ.layers-3q14ss:nth-child(2) > div.layer-3QrUeG.baseLayer-35bLyl > div.container-2lgZY8 > div.base-3dtUhz:last-child > div.noticeDefault-362Ko2.notice-2FJMB4.size14-3iUx6q.height36-36OHCc:first-child
 y.qq.com###divdialog_0
@@ -20,3 +19,12 @@ lol.dianjinghu.com##.banner-sm
 wegame.com.cn##.widget-phone-view
 wegame.com.cn###dvBackground
 wegame.com.cn###dvMain > div.gbanner.txp_video_hide:nth-child(2)
+s.threatbook.cn###app_mountpoint > div.page-content.index-content:last-child > div.global-drop-box.index-global-upload.filter-cover > div.foot-api-banner:nth-child(3)
+s.threatbook.cn##.foot-api-banner
+discordapp.com##.noticeDefault-362Ko2, .notice-2FJMB4, .size14-3iUx6q, .height36-36OHCc
+douyu.com##.layout-Slider
+douyu.com##div.layout-Container:first-child > section.layout-Section.layout-Slide:nth-child(5) > a.layout-Section.layout-Slide-banner:first-child
+douyu.com###lazyModule5
+douyu.com###lazyModule8
+douyu.com##.layout-Customize
+douyu.com##.SuperFansGuideTips
