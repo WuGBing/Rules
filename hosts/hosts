@@ -23,6 +23,9 @@
 127.0.0.1 localhost
 ::1 localhost
 
+151.101.0.133        raw.githubusercontent.com
+151.101.228.133      raw.githubusercontent.com
+
 0.0.0.0 08sleeplabo.com
 0.0.0.0 1000faith.com
 0.0.0.0 100yen-lab.com
