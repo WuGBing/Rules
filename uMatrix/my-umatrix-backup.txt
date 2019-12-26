@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.0",
-  "when": 1577334449713,
+  "when": 1577334896025,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -25,10 +25,7 @@
     "popupCollapseBlacklistedDomains": false,
     "popupScopeLevel": "domain",
     "processHyperlinkAuditing": true,
-    "selectedHostsFiles": [
-      "malware-0",
-      "malware-1"
-    ],
+    "selectedHostsFiles": [],
     "selectedRecipeFiles": [],
     "userHosts": {
       "enabled": false,
@@ -931,6 +928,7 @@
     "redtube.com icfcdn.com * allow",
     "redtube.com phncdn.com * allow",
     "redtube.com rdtcdn.com * allow",
+    "referrer-spoof: * true",
     "referrer-spoof: behind-the-scene false",
     "renren.com xnimg.cn * allow",
     "repaik.com repaik.com cookie allow",
